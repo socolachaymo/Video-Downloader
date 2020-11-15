@@ -10,4 +10,4 @@ This is how the game looks like:
 </p>
 
 ### Try it!
-You can download the game (Video-Downloader.zip)from [Release](https://github.com/socolachaymo/Video-Downloader/releases) and run the GUIdownload.exe file
+You can download the game (Video-Downloader.zip)from [Release](https://github.com/socolachaymo/Video.Downloader/releases) and run the GUIdownload.exe file
